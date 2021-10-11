@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.toml": "toml",
+        "ios": "c",
+        "type_traits": "c",
+        "xstring": "c",
+        "xutility": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
